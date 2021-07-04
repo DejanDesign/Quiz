@@ -1,0 +1,15 @@
+* {
+  font-family: "Kirang Haerang", cursive;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.bat {
+  width: 15rem;
+  font-size: 2rem;
+  color: #0d6efd;
+}
+
+.bat:hover {
+  background-color: rgb(71, 69, 69);
+}
